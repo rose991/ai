@@ -1,0 +1,21 @@
+.sp1{
+    color:black;
+}
+.bg{
+    background-image: URL(background.jpg);
+}
+img{
+    width:200px;
+    height:200px;
+}
+.d-1{
+    float:left;
+    margin-left:50px;
+}
+.d-2{
+    float:right;
+    margin-right:50px;
+}
+canvas{
+    border:5px solid white;
+}
